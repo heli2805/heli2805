@@ -1,50 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profil de Helicia TSIKA LENG'KUISS</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-        h1, h3 {
-            text-align: center;
-            color: #333;
-        }
-        p {
-            text-align: center;
-        }
-        .center {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        .social-icons img {
-            margin: 0 10px;
-        }
-        .tools img {
-            margin: 10px;
-        }
-        .stats img {
-            width: 100%;
-            max-width: 600px;
-            margin: 20px auto;
-            display: block;
-        }
-    </style>
-</head>
+
 <body>
     <div class="container">
         <h1>Bonjour 👋, je suis Helicia TSIKA LENG’KUISS</h1>
