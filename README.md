@@ -22,7 +22,7 @@
         </p>
         
    <ul>
-            <li>🔭 Je travaille actuellement sur <strong>Conception d'une Tableau de bord de la méteo des pays avec JavaScript</strong></li>
+            <li>🔭 Je travaille actuellement sur <strong>Conception d'un Tableau de bord de la méteo des pays avec JavaScript</strong></li>
             <li>🌱 J’apprends actuellement <strong>Language Javascript </strong></li>
             <li>👯 Je cherche à collaborer sur <strong>La mise en place d'un médiametre</strong></li>
             <li>📫 Comment me joindre <strong>tsikahelicia99@gmail.com</strong></li>
