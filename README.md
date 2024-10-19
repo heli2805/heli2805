@@ -11,7 +11,7 @@
         
   # 💫About Me :
         🔭 Actuellement, je travaille sur la création d'un tableau de bord pour une petite entreprise de livraison.  
-        🌱 Je suis en train d'apprendre Power BI et Tableau.  
+        🌱 Je suis en train d'apprendre R.  
         👯 Je suis à la recherche de collaborations pour la mise en place d'un médiamètre.  
         📫 Vous pouvez me contacter à l'adresse suivante : tsikahelicia99@gmail.com.
 
