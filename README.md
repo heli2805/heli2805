@@ -4,7 +4,7 @@
 <body>
     <div class="container">
         <h1>Bonjour 👋, je suis Helicia TSIKA LENG’KUISS</h1>
-        <h3>Aspirant devenir Data Analyst . Je suis actuellement en Formation en Dev Data à Orange digital center, je suis constamment à la recherche de nouvelles connaissances et opportunités pour approfondir mes compétences dans ce domaine passionnant.</h3>
+        <h3>Titulaire d’un Master 1 en Data Stratégie, actuellement en stage au sein du service Orange Finance Mobile Sénégal de Sonatel en tant que Data Analyst Power BI, je suis déterminée à mettre mes compétences en pratique. Mon parcours polyvalent associe une expertise technique en analyse de données à des compétences transversales en gestion de projet, communication marketing et relation client. Rigoureuse et orientée vers les résultats, je m’adapte aisément aux nouveaux défis.</h3>
         <p class="center"> 
             <img src="https://komarev.com/ghpvc/?username=heli2805&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
         </p>
